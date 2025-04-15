@@ -10,7 +10,7 @@ Um aplicativo/site desenvolvido no **FlutterFlow** para ajudar no controle e adm
 
 ✔ **Registro de Transações** – Adicione entradas (receitas) e saídas (despesas) de forma rápida.  
 ✔ **Categorização** – Organize seus gastos por categorias (alimentação, transporte, lazer, etc.).  
-✔ **Relatórios e Gráficos** – Visualize seu fluxo financeiro de forma clara e intuitiva.  
+✔ **Relatórios** – Visualize seu fluxo financeiro de forma clara e intuitiva.  
 ✔ **Backup em Nuvem** – Seus dados sincronizados e seguros.  
 ✔ **Multiplataforma** – Acesse pelo celular (Android/iOS) ou navegador.  
 
