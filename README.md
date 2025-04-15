@@ -33,7 +33,7 @@ Um aplicativo/site desenvolvido no **FlutterFlow** para ajudar no controle e adm
 
 ## **🔗 Links Úteis**  
 
-- **[Demonstração Online](#)** *(https://app-finance-para-estudo.flutterflow.app/)*
+- **[Demonstração Online](#)** *(https://app-finance-estudando.flutterflow.app)*
 - **[Tutorial](#)** *(https://www.youtube.com/watch?v=AcIXiH9gcAA)*
 
 **Desenvolvido por Leticia P Araujo com ❤️ usando FlutterFlow**  
